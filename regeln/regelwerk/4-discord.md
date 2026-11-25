@@ -1,61 +1,60 @@
-# §4 Discord
+# §9 | Discord und Support
 
-## 4.1 Allgemein
-**Strafmaßnahmen:**
+## §9.1 Discord
 
-- Administratoren und Supporter kicken oder bannen nicht ohne Grund. Jede Strafe ist gerechtfertigt, und die Team-Mitglieder müssen sich nicht rechtfertigen.
+1. Ein respektvoller Umgang ist Pflicht.
+2. Beleidigungen, Rassismus und Diskriminierung sind verboten.
+3. Spam und unerlaubte Werbung sind verboten.
+4. Fremdserverwerbung, auch per Privatnachricht an Servermitglieder, ist verboten.
+5. Links dürfen nur in freigegebenen Kanälen gepostet werden.
+6. Absichtliche Störgeräusche, unerlaubte Soundboards und störendes Channel-Hopping sind verboten.
+7. Supportgespräche dürfen nicht ohne Zustimmung aufgenommen oder veröffentlicht werden.
+8. Es gelten zusätzlich die Discord-Nutzungsbedingungen.
 
-**Username:**
+## §9.2 Support
 
-- Der Username muss leserlich sein und darf keine sexistischen, beleidigenden, rassistischen oder diskriminierenden Äußerungen enthalten. Zudem sollten keine hervorgehobenen Sonderzeichen verwendet werden.
+1. Regelverstöße sollen innerhalb von 48 Stunden gemeldet werden.
+2. Clips müssen die Situation ausreichend und unverfälscht zeigen.
+3. Manipulierte Beweise sind verboten.
+4. RP-Situationen sollen grundsätzlich vor einem Supportfall beendet werden.
+5. Support darf nicht genutzt werden, um verlorene RP-Situationen rückgängig zu machen.
+6. Den zulässigen Anweisungen des Supportteams ist Folge zu leisten.
+7. Gegen eine Entscheidung kann über ein Ticket Einspruch eingelegt werden.
+8. Das Serverteam entscheidet über Regelverstöße und angemessene Maßnahmen.
 
-**Werbung:**
+## §9.3 Anti-Cheat und PC-Kontrollen
 
-- Jegliche Art von Werbung ist strengstens verboten und führt zu einem permanenten Bann. Dies schließt das Anschreiben anderer Servermitglieder mit Werbung per Privatnachricht ein.
+1. Cheats, unerlaubte Programme und Manipulationen sind strengstens verboten.
+2. Das Serverteam darf technische Logs und zulässige Anti-Cheat-Meldungen überprüfen.
+3. Bei einem konkreten Cheatverdacht kann das Serverteam eine PC-Kontrolle anfragen.
+4. Eine PC-Kontrolle darf nur mit ausdrücklicher und informierter Zustimmung durchgeführt werden.
+5. Spieler dürfen nicht gezwungen werden, private Dateien oder persönliche Informationen offenzulegen.
+6. **Wer einer zur Klärung eines konkreten Verdachts angeforderten PC-Kontrolle ausweicht, sie verweigert oder bewusst abbricht, muss damit rechnen, vom weiteren Spielbetrieb auf GRP ausgeschlossen zu werden.**
+7. Die Verweigerung gilt nicht automatisch als Beweis für Cheating. Das Serverteam entscheidet über einen möglichen Ausschluss anhand des Sicherheitsverdachts und der vorhandenen Informationen.
+8. Das absichtliche Löschen oder Manipulieren relevanter Spieldaten zur Verschleierung von Cheats ist verboten.
+9. Private Daten dürfen nicht ohne geeignete Rechtsgrundlage eingesehen, gespeichert oder veröffentlicht werden.
 
-**Beleidigungen:**
+## §9.4 Datenschutz
 
-- Beleidigungen jeglicher Art und Diskriminierungen sind untersagt und werden bestraft.
+Personenbezogene Daten sowie Bild-, Audio- und Videomaterial dürfen nur entsprechend den geltenden Datenschutzbestimmungen verarbeitet werden.
 
-**Umgangston:**
+Einzelheiten zur Speicherung, Nutzung, Löschung und zu den Rechten der Spieler stehen in den gesonderten Datenschutzhinweisen von GRP.
 
-- Ein freundlicher Umgangston ist verpflichtend. Wer sich nicht daran hält und das Erlebnis anderer User negativ beeinträchtigt, wird nach Ermessen bestraft.
+# §10 | Schlussbestimmungen
 
-## 4.2 Text-Kanäle
-**Spam:**
+1. Das Serverteam entscheidet über die Auslegung des Regelwerks bei unklaren Situationen.
+2. Bewusstes Ausnutzen von Regelungslücken ist verboten.
+3. Das Regelwerk kann jederzeit angepasst werden.
+4. Änderungen werden im Discord angekündigt.
+5. Interne Maßnahmen und Sanktionen liegen im Ermessen der zuständigen Serverleitung und werden nach einheitlichen Grundsätzen festgelegt.
+6. Spieler können Regelverstöße über das Ticketsystem melden.
 
-- Es ist verboten, andere in irgendeiner Weise voll zu spammen.
+---
 
-**Links:**
+**GRP ist ein Soft-RP-Server.**
 
-- Das Posten von Links ist untersagt.
+Wir verlangen kein perfektes Schauspiel. Aber wir erwarten Respekt, faires RP und die Einhaltung unserer Regeln.
 
-**Emotes:**
+Spiele vernünftig, nutze keine unfairen Vorteile und akzeptiere auch Niederlagen.
 
-- Der Missbrauch und das dauerhafte reagieren auf Bildern/Videos mit provozierenden Emotes kann zu einem permanenten Timeout oder sogar einen Bann führen.
-
-**Tagging:**
-
-- Das Taggen einer Person mit anschließender Entfernung der Nachricht kann bei wiederholtem Auftreten bestraft werden.
-
-## 4.3 Sprach-Kanäle
-**Störgeräusche:**
-
-- Störgeräusche (z. B. Pusten ins Mikrofon, absichtliches Schreien) werden mit einem Bann bestraft. Obszöne Geräusche, laute Hintergrundgeräusche und Echos sind zu vermeiden. In solchen Fällen sollte Push-to-Talk verwendet werden.
-
-**Soundboards:**
-
-- Die Nutzung von Soundboards oder Stimmverzerrern ist nicht gestattet.
-
-**Channel Hopping:**
-
-- Channel Hopping wird bestraft.
-
-**Aufnahmen:**
-
-- Das Aufnehmen von Supportgesprächen ist verboten.
-
-**ToS:**
-
-- Es gelten zudem die ToS von Discord.
-
+**GRP – GUTES RP. FAIRE KÄMPFE. KLARE REGELN.**

@@ -1,61 +1,77 @@
+# §2 | Accounts und Charaktere
 
-# 🎮 §2 Roleplay
+1. Jeder Spieler darf nur einen Account besitzen.
+2. Account-Sharing ist verboten.
+3. Charakternamen müssen aus einem realistischen Vor- und Nachnamen bestehen.
+4. Fantasienamen, beleidigende Namen und Namen bekannter Persönlichkeiten sind verboten.
+5. Das Umgehen von Banns durch neue Accounts ist verboten.
+6. Verschleierungsmethoden zur gezielten Umgehung von Serversperren sind verboten.
+7. Unpassende Namen können vom Team geändert werden.
 
-## §2.1 Realismus Regelung
+# §3 | Roleplay
 
-- Alles was im echten Leben als unmöglich / unrealistisch gilt kann als Regelverstoß ausgelegt werden
+## §3.1 Value of Life
 
-## §2.2 Verhalten:
+**Dein Leben ist das höchste Gut.**
 
-- Der Name muss ernsthaft / realistisch sein (Kein Gambo Namen & maximal nur Vor-, mittel und Nachname)
-- Gesundheit und Leben haben **höchste** Priorität.
-- OOC Talk ist verboten
-- Neue / unerfahren Spieler dürfen **nicht** belästigt oder ausgenutzt werden.
-- Das Ausspielen von Krankheiten, Schwangerschaft, Suizid oder Vergewaltigungen ist unzulässig.
-- Das schänden von Leichen ist in jeglicher Art **verboten**.
-- Jegliche Art von Scamming / Betrug ist **verboten**.
-- Das LSMD darf unter keinen Umständen Bedroht werden
-- Spieler dürfen nur Helme tragen, die nicht kugelsicher sind
-- Fahrzeuge können weder fliegen noch über Berge rasen. Nicht geländegängige Fahrzeuge dürfen nicht über Berge oder auf nicht asphaltierte Straßen benutzt werden.
-- Das grundlose Rammen von Autos außerhalb eines Konflikts ist verboten (zum Beipspiel PD Verfolgungsjagd).
-- Aus kugelsicheren Fahrzeugen darf nicht geschossen werden.
-- Provozieren, um Fehlverhalten zu erzeugen ist verboten.
-- Maskierte Spieler dürfen nicht anhand ihrer Stimme identifiziert werden.
-- Das Agieren in Nacktheit ist verboten.
-- Religionsfeindlichkeit, Sexismus sowie rassenspezifische Beleidigungen sind unzulässig.
-- Unnötiges Schießen **ohne** Roleplayhintergrund ist verboten
-- Das schießen ohne Call ist nicht erlaubt.
-- Der Call gegenüber der Gegenpartei muss deutlich zu hören sein, ein Call übers Handy ist nicht gültig.
-- Eine Waffe nur eingesetzt / gezogen werden, wenn man nicht erheblich in der Unterzahl ist. 
-- Die Wahl zur Waffe sollte **immer** die letzte Wahl sein. 
-- Autohändler dürfen **pro** Standort maximal **30 Autos** ausparken.
-- META-Gaming, VDM, RDM ist untersagt
-- Die Flucht aus einer RP-Situation, indem man sich ausloggt, von der Situation entfernt oder Selbstmord begeht, ist **verboten** (_z.B. Offlineflucht / Combat Log-Out_).
-- Es gilt eine New Life Regelung nach einer Not-OP! (Man kann sich nicht an die vorherige Situation erinnern sowie teilnehmen) 
-- An alle Geschehnisse, die während der Bewusstlosigkeit passieren, kann man sich nicht erinnern.
+- Bei einer glaubhaften Bedrohung musst du dein Leben schützen.
+- Wenn mehrere bewaffnete Personen dich kontrollieren und du keine realistische Fluchtmöglichkeit hast, musst du kooperieren.
+- Sinnloses Provozieren, um erschossen zu werden, ist verboten.
 
-## $2.3 Blacklist Wörter im RP
-- Bibel, Himmel, Suppe, Engel, "ich klär das oben" oder ähnliches was auf das Regelwerk, den Support etc hinweißt.
+## §3.2 FailRP
 
-## $2.4 Tiere
-- Tiere dürfen nicht reden, töten, erschossen, getötet werden.
-- Tiere dürfen sich nicht vor Menschen verwandeln. 
-- Das Tierpaket darf nicht zum eigenen Vorteil genutzt werden
+Unrealistisches oder absichtlich störendes RP ist verboten.
 
-## §2.5 Geiselnahmen & Überfälle & Waffenlieferung
+**Beispiele:**
 
-- Juwelen-, Laden oder Staatsbankraub erfordert mindestens eine Geisel.
-- RP hat Vorrang vor Schussgefechten
-- 30 Minuten vor dem Serverrestart dürfen keine Geiselnahmen/ Räube / Razzien stattfinden.
-- Bei einem Überfall dürfen einer Person **alle illegalen Gegenstände** entwendet werden!
-- Die Entwendung **legaler Ressourcen** ist untersagt, mit Ausnahme von **Handy, Kabelbinder und Schutzweste**.
-- Ein **Überfall** auf einen Spieler darf nur mit **entsprechendem RP-Hintergrund** erfolgen. 
-- Der Wunsch nach Materialien/Geld zählt **nicht** als RP-Hintergrund
-- Bei der Waffenlieferung entfällt die Drittpartei-Regel im Kreis der Waffenlieferung.
-- In der Nähe befindliche Spieler werden in die RP-Situation eingebunden.
-- Maximal 5000$ pro Geisel, nur Cash erlaubt.
+- Ohne RP-Grund aus einer Situation flüchten.
+- Schwere Verletzungen völlig ignorieren.
+- Während einer Bedrohung unrealistisch handeln.
+- RP-Situationen absichtlich ins Lächerliche ziehen.
 
-## §2.6 (AFK)-Farming
+## §3.3 PowerRP
 
-- Das AFK-Farmen auf einer legalen Route ist **erlaubt.**
-- Das AFK-Farmen auf einer illegalen Route ist **erlaubt**, man muss jedoch ansprechbar sein.
+Du darfst anderen Spielern keine unmöglichen Handlungen aufzwingen oder ihnen jede realistische Möglichkeit zum Reagieren nehmen.
+
+Unrealistische Forderungen und das Erzwingen technisch nicht vorgesehener Handlungen sind verboten.
+
+## §3.4 Meta-Gaming
+
+Informationen aus Discord, Livestreams, privaten Gesprächen oder anderen OOC-Quellen dürfen nicht IC verwendet werden.
+
+## §3.5 RP-Flucht
+
+1. Das absichtliche Verlassen einer laufenden RP-Situation ist verboten.
+2. Absichtliches Respawnen zur Vermeidung von RP ist verboten.
+3. Das Flüchten in unzugängliche Räume oder das Ausnutzen von Bugs ist verboten.
+4. Bei technischen Problemen muss der Support informiert werden.
+
+## §3.6 Maskierung
+
+Vollmaskierte Personen dürfen nicht allein anhand ihrer Stimme erkannt werden.
+
+Eine Identifizierung benötigt nachvollziehbare IC-Hinweise.
+
+## §3.7 Bewusstlosigkeit und New Life
+
+1. Nach einer Not-OP vergisst du die Situation, die zu deiner Bewusstlosigkeit geführt hat.
+2. Nach einer normalen Wiederbelebung durch das MD darfst du dich erinnern.
+3. Du darfst nach einer Wiederbelebung nicht selbstständig in denselben Kampf zurückkehren.
+4. Absichtliches Ausblutenlassen zur Flucht aus RP ist verboten.
+5. Bewusstlose Spieler dürfen nicht grundlos angegriffen oder verschleppt werden.
+6. Technisch vorgesehene Carry-Bestätigungen müssen beachtet werden.
+
+## §3.8 Fahrzeuge
+
+1. Fahrzeugdiebstahl benötigt einen nachvollziehbaren RP-Hintergrund.
+2. Staatsfahrzeuge dürfen nicht gestohlen werden.
+3. Car-Scamming durch Ausnutzen von Spielmechaniken ist verboten.
+4. Das absichtliche Überfahren oder Töten von Spielern mit Fahrzeugen ist verboten (VDM).
+5. Fahrzeuge dürfen zur Flucht, aber nicht gezielt als Waffe eingesetzt werden.
+
+## §3.9 Tiere
+
+1. Tiere müssen artgerecht gespielt werden.
+2. Sprechende Tiere sind verboten.
+3. Grundloses Verletzen oder Töten von Tieren ist verboten.
+4. Das absichtliche Überfahren von Tieren zählt als VDM.

@@ -1,121 +1,206 @@
-# 👬 §3 Fraktionen
+# §6 | Fraktionen und Banden
 
-## §3.1 Fraktionsregeln:
+## §6.1 Mitglieder
 
-- Illegale und Legale Fraktionen müssen mit einem umfassenden Konzept beantragt werden.
-- Die **Fraktionsleitung** haftet für die Mitglieder eben dieser Fraktion.\
-Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder ganz oder möglicherweise nur in Teilen (un)gleich bestraft. Diese Entscheidung obliegt der Fraktionsverwaltung.
-- Das regelmäßige Wechseln zwischen Fraktionen ist **nicht gestattet**. 
-- Eine Staatsfraktion besitzt keine Mitgliederlimitierung.
-- Staatsfraktion dürfen zusammen agieren und gelten als Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr.
-- Das LSPD darf nur mit einem triftigen Grund gestürmt werden. 
-- Das AFK-Farmen von Gehaltschecks ist **verboten**.
-- Sich als fremde Fraktion auszugeben ist **verboten**.
-- Fraktionsmitglieder dürfen nicht permanent maskiert rumlaufen, da es sonst als dauerhafte Provokation gilt. 
-- die Fraktionsverwaltung **muss** auf dem jeweiligen Discord eingeladen werden mit voller Einsicht auf alle Channel (Admin Rechte)
+**Banden:**
 
-## §3.2 Illegale Fraktion:
+- Maximal 4 Mitglieder.
+- Bis einschließlich 4 Personen gilt eine organisierte Gruppe als Bande.
+- Banden dürfen keine Routen oder Fraktionsgebiete beanspruchen.
 
-- Es darf nur **eine** illegale Fraktion zur selben Zeit bespielt werden. Bei einem Bloodout einer illegalen Fraktion vergisst der Betroffene alles was er in der Fraktion erlebte.
-- Bei einem Bloodout keine Möglichkeit auf Widereintritt in Haupt- und Unterfraktion.
-- Nach dem Austritt aus einer illegalen Fraktion müssen Spieler eine Wartezeit von **7 Tagen** einhalten
-- Sollte eine illegale Fraktion sich von selbst auflösen und **nicht mindestens 4 Wochen** lang aktiv bespielt worden sein, erhalten **alle Mitglieder eine Wartezeit von 7 Tagen**. Spieler die bei einer legalen Fraktion rausgeworfen worden sind, haben die Möglichkeit sich für eine hohe **Gebühr** bei der Regierung von dieser Wartezeit **freizukaufen.**
-- Bei Auflösung einer Fraktion durch den Support, gilt für die Leitung der Fraktion ein Fraktionserstellungsverbot von **3-Monaten**. Des Weiteren dürfen die alten Mitglieder nicht mit dem rest eine neue Fraktion gründen (Wenn der Anteil der neuen Fraktion min 70% der alten Mitglieder beinhaltet)
-- die ehemaliege Leitungsebene darf innerhalb der 3-Monats sperre kein Teil einer neuen Leitungsebene sein/werden.
-- Es besteht keine **Fraktionssperre** zwischen der Hauptfraktion und der Unterfraktion. 
-- Die Unterfraktion ist berechtigt, die Hauptfraktion jederzeit aufzufüllen oder bei Schießereien mitzuagieren.
-- Die Hauptfraktion darf **nicht** in die Unterfraktion eintreten, um gemeinsam zu agieren.
-- Eine Fraktion besteht aus maximal 25 Mitgliedern, mindestens jedoch mit 5 Mitgliedern.
-- Die Fraktionsleitung ist verantwortlich, dass alle Mitglieder im Fraktionsmenü eingetragen sind.
-- Sollte sich eine Fraktion **NEU** gründen erhält Sie von der **Fraktionsverwaltung** einen  **Aufbauschutz** (Wird im Discord hinterlegt)
-- Der Aufbauschutz hält **eine Woche** an und kann jederzeit von der **Fraktionsverwaltung beendet** werden. Während dieser Zeit darf diese Fraktion **NIEMAND** angreifen. Eine Fraktion die sich im Aufbau daneben benimmt, muss mit konsequenzen der Fraktionsverwaltung rechnen.
-- Bei Gründen der Fraktion wird direkt mit der Fraktionsverwaltung die sichtbaren Merkmale besprochen, dass können unteranderem Farbe und/oder Kleidungsstücke sein (min 2)
-- Fraktionen müssen eine eigene Fraktionsfarbe haben! Sobald man in einer Fraktion ist, darf nur mit dieser und in dessen Farben und der **Fraktionsweste** agiert werden.
-- Bei Fraktions-Situationen müssen die gegebenen Merkmale immer sichtbar sein, außerhalb dürfen sie ausgezogen werden. 
-- Das Durchführen von Stürmungen ist ausschließlich mit einem angemessenen RP-Hintergrund erlaubt.
-- Es muss ein Konzept eingerecht werden.
-- Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.
-- Es ist untersagt als dritte Partei in einen Konflikt zwischen zwei Parteien einzugreifen / zu agieren.
+**Fraktionen:**
 
-## §3.2.1 Unterfraktionen:
-- Eine Unterfraktion muss wie die Hauptfraktion bei der Fraktionsverwaltung beantragt werden.
-- Unterfraktionen dürfen nur mit einem Grund und einer bestimmten Mitgliederanzahl der Hauptfraktion gegründet werden. (min 15 Mitglieder in der Hauptfraktion)
-- die Mitglieder einer Unterfraktion müssen ähnliche Merkmale haben wie die Hauptfraktion, welche sind selbstbestimmend mit erlaubnis der Fraktionsverwaltung
-- Eine Unterfraktion muss mindestens aus 5 Mitgliedern bestehen und hat eine Maximalanzahl an 10
-- Arbeiter müssen ein Teil der Unterfraktion sein und stehen unter derem Schutz, heißt wenn gegen den Arbeiter agiert wird, wird auch gegen die Fraktion agiert. 
+- Ab 5 Mitgliedern gilt eine dauerhaft organisierte Gruppe als Fraktion.
+- Offizielle Fraktionen benötigen mindestens 5 Mitglieder und eine Anerkennung durch die Fraktionsverwaltung.
+- Maximal 30 Mitglieder pro offizieller Fraktion.
+- Maximal 20 Mitglieder gleichzeitig bei einer Fraktionsaktion.
+- Staatsfraktionen dürfen mit maximal 40 Mitgliedern agieren.
 
-## §3.3 Banden
+**Weitere Regeln:**
 
-- Eine Bande besteht ab 2 Personen und obliegt den gleichen Regeln wie jede andere illegale Fraktion.
-- Banden dürfen keine illegalen Routen beanspruchen. 
+1. Eine Bande darf das Mitgliederlimit nicht durch zusätzliche Helfer umgehen.
+2. Ab 5 dauerhaft gemeinsam agierenden Mitgliedern muss die Gruppe als Fraktion angemeldet werden.
+3. Nach dem Austritt aus einer Fraktion gilt eine Fraktionssperre von 5 Tagen. Bei längerer Mitgliedschaft kann die Fraktionsverwaltung eine Ausnahme gewähren.
+4. Das gleichzeitige Bespielen mehrerer illegaler Fraktionen ist verboten.
 
-## §3.4 Kriegsvertrag
+## §6.2 Fraktionskleidung
 
-- Der Kriegsvertrag muss durch die Fraktionsverwaltung genehmigt werden.
+1. Offizielle Fraktionen müssen eindeutig erkennbar sein.
+2. Jede Fraktion nutzt eine einheitliche Fraktionsweste.
+3. Kleidung und Fraktionsfarben müssen von der Fraktionsverwaltung freigegeben werden.
+4. Die Fahrzeugfarbe muss zur Fraktionsfarbe passen.
+5. Das Vortäuschen einer anderen Fraktion ist verboten.
+6. Streit um Fraktionsfarben soll zunächst IC gelöst werden. Bei unlösbaren Konflikten entscheidet die Fraktionsverwaltung.
 
-## §3.4.1. Vorgespräche und Konflikt
-- **IC-Gespräche:** Bevor es zu einem Krieg kommt, führen die beteiligten Fraktionen IC (In-Character) Gespräche, um mögliche Konflikte friedlich zu lösen.
-- **Eskalation:** Sollten die Gespräche ergebnislos bleiben oder zu Streitigkeiten führen, kann es zu einem Angriff auf die Route kommen.
-- **Einstieg in die Kriegsphase:** Nach mehreren Fights auf der Route kann eine Fraktion über das Continental einen Kriegsvertrag beantragen
+## §6.3 Fraktionsfahrzeuge
 
-## §3.4.2. Kriegsvertrag Antrag
+1. Illegale Fraktionen müssen bei geplanten Fraktionsaktionen Fahrzeuge in ihrer Fraktionsfarbe nutzen.
+2. Offizielle Fraktionen können ab 10 Mitgliedern ein Fraktionsfahrzeug erhalten.
+3. Maximal 3 Motorräder dürfen gleichzeitig bei einer Fraktionsaktion eingesetzt werden.
+4. Maximal 1 Helikopter pro illegaler Fraktion.
+5. Das PD darf maximal 2 Helikopter gleichzeitig nutzen.
+6. In privaten Fahrzeugen ist Selbstverteidigung bei einem unerwarteten Angriff erlaubt.
+7. Geplante Verstärkung bei Fraktionskämpfen muss mit erkennbaren Fraktionsfahrzeugen erfolgen.
 
-# Anforderungen an den Kriegsvertragsantrag:
+## §6.4 Bündnisse
 
-Die antragstellende Fraktion muss ausreichende Beweise vorlegen, die den Krieg rechtfertigen. Diese Beweise können folgende Punkte beinhalten:
+1. Bündnisse müssen IC geschlossen werden.
+2. Gemeinsame Kämpfe von zwei illegalen Fraktionen gegen denselben Gegner sind verboten.
+3. Das Eingreifen in fremde Schießereien ist verboten.
+4. Gezieltes Spotting oder Blockieren zur Unterstützung einer fremden Fraktion ist ebenfalls verboten.
+5. Wer unmittelbar selbst angegriffen wird, darf sich verteidigen.
 
-1. **Kenntnis der Route:** Die Angreifer wissen, wo sich die Route befindet.
-2. **Interaktion mit der Route:** Die Angreifer haben die Route bereits betreten oder den dortigen Camper geplündert.
-3. **Erfolg in vorherigen Fights:** Es wurden bereits Kämpfe auf der Route ausgetragen, und die Angreifer konnten mindestens einen Sieg erringen.
+## §6.5 Routenbeanspruchung
 
-## §3.4.3. Prüfung und Genehmigung des Kriegsvertrags
+1. Offizielle Fraktionen dürfen Routen beanspruchen.
+2. Die beanspruchte Route muss der Fraktion serverseitig zugeordnet sein.
+3. Das bloße Behaupten eines Besitzanspruchs reicht nicht aus.
+4. Fraktionen dürfen ihre Routen verteidigen und andere Routen angreifen.
+5. Für Angriffe auf Routen ist immer ein gültiger Schusscall erforderlich.
+6. Das gilt auch für die Fraktion, die die Route besitzt.
+7. Banden und Zivilisten dürfen keine Routen dauerhaft beanspruchen.
+8. Routenstreitigkeiten sollen IC geklärt werden.
 
-- **Prüfung durch die Fraktionsverwaltung:** Die Frakverwaltung sichtet die Beweise und prüft, ob der Antrag berechtigt ist.
-- **Genehmigung:** Nach positiver Prüfung, gibt die Frakverwaltung das "Go" für den Kriegsvertrag.
+## §6.6 Blood In / Blood Out
 
-## §3.4.4. Erstellung des Kriegsvertrags
+1. Blood In und Blood Out müssen sinnvoll im RP ausgespielt werden.
+2. Nach einem Blood Out darf der Charakter keine internen Fraktionsgeheimnisse mehr verwenden.
+3. Bei einem Pay Out dürfen realistische Geld- oder Materialforderungen gestellt werden.
+4. Fahrzeuge dürfen nicht als Pay Out verlangt werden.
+5. Wer sich einem vereinbarten Blood Out entzieht, darf maximal 7 Tage IC verfolgt werden.
+6. Ein dauerhafter Charaktertod benötigt die Zustimmung des betroffenen Spielers oder eine Genehmigung der Serveradministration.
 
-# Beteiligung der Parteien:
+## §6.7 Fraktionsauflösung
 
-- Beide Fraktionen treffen sich im Support mit der Frakverwaltung und gehen die Anforderungen/Bedingungen des Kriegsvertrages druch. 
-- Sobald beide Fraktionen den Bedingungen zustimmen, wird der Vertrag abgesegnet.
+Eine Fraktion kann durch die Fraktionsverwaltung aufgelöst werden, wenn sie schwer oder wiederholt gegen Regeln verstößt oder dauerhaft die Mindestmitgliederzahl unterschreitet.
 
-# Inhalte des Kriegsvertrags:
+# §7 | Fraktionskriege und Kriegsverträge
 
-Der Vertrag muss folgende Punkte klar und detailliert regeln:
+**Fraktionskriege werden auf GRP grundsätzlich im Roleplay ausgehandelt, durchgeführt und beendet.**
 
-1. **Forderung:** Welche konkreten Forderungen werden von den Fraktionen gestellt?
-2. **Grund des Krieges:** Was ist der Auslöser oder die Begründung für den Krieg?
-3. **Zeitplan:** Wann sollen die Kämpfe stattfinden?
-4. **Anzahl der Fights:** Wie viele Kämpfe sind erforderlich, um den Krieg zu entscheiden?
-5. **Spezialregelungen:** Welche besonderen Regeln gelten? (z. B. Nutzung von Autos, Helikoptern oder Motorrädern)
-6. **Call und Ort:** Wird mit einem Schusscall oder einem Ersten Kontakt begonnen, und wo genau finden die Kämpfe statt?
-7. **Anzahl der Teilnehmer:** Wie viele Spieler dürfen pro Fraktion an den Kämpfen teilnehmen? Falls keine Einigung erzielt wird, gilt automatisch ein Limit von 20 gegen 20.
+Die Fraktionsverwaltung greift nur ein, wenn Verhandlungen scheitern oder Regeln verletzt werden.
 
-## §3.4.5. Abschluss
+## §7.1 Grund eines Krieges
 
-1. **Start des Krieges:** Nach der Support Bestätigung beginnen die vereinbarten Kämpfe entsprechend den festgelegten Regeln und Bedingungen.
+Ein Krieg benötigt einen nachvollziehbaren IC-Konflikt.
 
-## §3.5 Gangwar
+**Beispiele:**
 
--  Nach Abschluss eines Gangwars trennen sich die beteiligten Parteien, es darf daraus keine neue Situation entstehen. 
-- Fraktionen haben das Recht, nach einem Gangwar bei der Frakverwaltung einen Krieg gegen die gegnerische Fraktion zu beantragen. 
-- Die Entscheidung über die Genehmigung eines Krieges liegt bei der Frakverwaltung, dass beurteilt, ob die Bedingungen für einen Krieg erfüllt sind. 
-- Es dürfen keine Platten außerhalb der Zone geschossen werden
-- VDM von Spielern im Zonenkampf ist nicht gestattet
+- Streit um eine illegale Route.
+- Wiederholte Angriffe.
+- Gebrochene Vereinbarungen.
+- Schwere Konflikte zwischen Fraktionen.
 
+Vor einem Krieg müssen die Fraktionsleitungen versuchen, den Konflikt IC zu lösen.
 
-## §3.6 Waffenlieferung
+## §7.2 Kriegserklärung
 
-- Während einer aktiven Waffenlieferung treten sowohl die Schusscall- als auch die Drittpartei-Regel außer Kraft.
+Die angreifende Fraktion erklärt der Gegenseite IC:
 
-- Innerhalb des definierten Radius ist es allen beteiligten Parteien gestattet, ohne Schusscall zu handeln und sich in den Konflikt einzumischen.
+1. Warum sie Krieg führen möchte.
+2. Welche Forderungen sie stellt.
+3. Welche Folgen ein Sieg oder eine Niederlage hat.
 
-## §3.7 Fraktionswarn & Auflösung
+Die Gegenseite muss eine realistische Möglichkeit haben, darauf zu reagieren.
 
-Warns an eine Fraktion werden vergeben wenn mehrere Regelbrüche und/oder Regelbrüche von mehreren Mitgliedern einer Fraktion entstanden sind. 1 Fraktionswarn wird im ermessen der Frakverwaltung festgelegt. Wird bei einer Fraktion der 3. Warn ausgesprochen erfolgt direkt darauf die Auflösung.
+## §7.3 IC-Kriegsvertrag
 
-## §3.8 Umsetzung/Umlegung von Routen 
+Beide Fraktionsleitungen vereinbaren ihre Bedingungen im Spiel.
 
-Das umsetzen einer Route oder der Routen Schritte ist möglich, hat aber danach einen Cooldown von **1. Monat**
-Das tauschen von Routen zwischen Fraktionen untereinander ist jederzeit möglich in zusammenarbeit mit der Fraktionsverwaltung, die Cooldown Regelung fürs umsetzen entfällt **NICHT**
+Ein Vertrag enthält:
+
+- Kriegsgrund.
+- Forderungen.
+- Austragungsort oder umkämpfte Route.
+- Anzahl der Kämpfe.
+- Teilnehmerzahl.
+- Erlaubte Waffen und Fahrzeuge.
+- Zeitpunkt der Kämpfe.
+- Folgen von Sieg oder Niederlage.
+
+Der Vertrag muss IC abgeschlossen werden. Ein Ingame-Dokument kann zur Dokumentation genutzt werden.
+
+Niemand darf durch PowerRP zur Zustimmung gezwungen werden.
+
+## §7.4 Keine Einigung beim Kriegsvertrag
+
+**Grundsätzlich müssen beide Fraktionen versuchen, sich IC zu einigen.**
+
+Sollten die Verhandlungen scheitern oder keine Fortschritte mehr erzielt werden, gilt:
+
+1. Beide Fraktionen müssen zunächst ernsthaft versuchen, den Konflikt IC zu lösen.
+2. Blockiert eine Fraktion absichtlich die Verhandlungen, darf die andere Fraktion die Fraktionsverwaltung einschalten.
+3. Kommt dauerhaft keine Einigung zustande, schaltet sich die Fraktionsverwaltung ein.
+4. Die Fraktionsverwaltung prüft den bisherigen RP-Verlauf und vermittelt zwischen den Parteien.
+5. Falls weiterhin keine Einigung möglich ist, kann die Fraktionsverwaltung verbindliche Rahmenbedingungen für die weitere Konfliktlösung festlegen.
+6. Die Fraktionsverwaltung bestimmt nicht willkürlich einen Gewinner. Der Ausgang muss im RP entschieden werden.
+7. Bis zur Klärung darf kein offizieller Krieg ohne vereinbarten oder durch die Fraktionsverwaltung festgelegten Rahmen begonnen werden.
+
+> **Wichtig:** Keine Fraktion darf durch absichtliches Blockieren der Verhandlungen einen Konflikt endlos verhindern.
+
+## §7.5 Ablauf eines Krieges
+
+Wenn IC nichts anderes innerhalb der Servergrenzen vereinbart wurde, gelten:
+
+1. Ein Krieg läuft als **Best of 3**.
+2. Wer zuerst 2 Kämpfe gewinnt, gewinnt den Krieg.
+3. Maximal 20 gegen 20 Spieler.
+4. Keine Drittparteien.
+5. Keine gemeinsame Unterstützung durch verbündete Fraktionen.
+6. Kämpfe finden an den vereinbarten Orten und Zeiten statt.
+7. Bei Kämpfen außerhalb von Routen reicht ein eindeutig IC vereinbarter und für beide Seiten erkennbarer Kampfstart als Call.
+8. **Bei Kämpfen auf Routen muss zusätzlich ein gültiger Schusscall erfolgen.**
+9. Ein Kriegsvertrag allein berechtigt nicht dazu, Spieler auf Routen ohne Call zu erschießen.
+10. Absichtliches Nichtantreten oder wiederholtes Verhindern vereinbarter Kämpfe ist FailRP.
+11. Außerhalb der vereinbarten Kämpfe gelten die normalen RP- und Schusscall-Regeln.
+12. Kämpfe dürfen nicht unmittelbar vor dem angekündigten Serverneustart beginnen.
+
+## §7.6 Ende eines Krieges
+
+1. Nach dem letzten Kampf treffen sich die Fraktionsleitungen IC.
+2. Die unterlegene Fraktion muss die vereinbarten und regelkonformen Folgen akzeptieren.
+3. Unrealistische Forderungen sind verboten.
+4. Charakterlöschungen, Echtgeldforderungen und vollständige Enteignungen dürfen nicht erzwungen werden.
+5. Nach Kriegsende gilt für denselben Konflikt eine 48-stündige Waffenruhe.
+6. Unmittelbare Notwehr bleibt erlaubt.
+
+> **Der Krieg wird im RP entschieden. Die Fraktionsverwaltung greift bei festgefahrenen Verhandlungen oder Regelverstößen ein.**
+
+# §8 | Staatsfraktionen
+
+Auf GRP gibt es folgende Staatsfraktionen:
+
+- **Police Department (PD)**
+- **Medical Department (MD)**
+
+## §8.1 Allgemein
+
+1. Staatsfraktionen müssen realistisch und fair handeln.
+2. Korruption ist verboten.
+3. Paycheck-Farming ist verboten.
+4. Dienstzeit darf nur bezogen werden, wenn der Spieler seine Aufgaben erfüllt.
+5. Unbeteiligte Staatsmitarbeiter dürfen nicht grundlos angegriffen werden.
+6. Staatsmitarbeiter müssen die allgemeinen RP- und Kampfregeln beachten.
+
+## §8.2 Police Department
+
+1. Das PD darf maximal eine Routenrazzia zwischen zwei regulären Serverneustarts durchführen.
+2. Eine Razzia auf einem Fraktionsanwesen ist maximal einmal innerhalb von 7 Tagen erlaubt und benötigt einen RP-Grund.
+3. Gefährliche Fraktionseinsätze benötigen angemessene Verstärkung.
+4. Durchsuchungen benötigen einen nachvollziehbaren Grund.
+5. Sichtbare Waffen, eine rechtmäßig angeordnete und verweigerte Entmaskierung oder das Betreten einer illegalen Route können Durchsuchungsgründe sein.
+6. Akteneinträge allein reichen nicht als Durchsuchungsgrund.
+7. Auch Fahrzeug- und Kofferraumdurchsuchungen benötigen einen gerechtfertigten Grund.
+8. Bei einer begründeten Verfolgung darf das PD nach deutlicher Warnung gezielt auf Reifen schießen. Daraus entsteht kein allgemeiner Call auf die Insassen.
+9. Bei einem Kampf auf einer Route gilt auch für das PD die Schusscall-Pflicht. Unmittelbare Notwehr bleibt erlaubt.
+10. Nach größeren Einsätzen gegen illegale Fraktionen muss ein Einsatzbericht erstellt werden.
+11. Die Einstufung einer Fraktion als terroristisch benötigt die Genehmigung der Fraktionsverwaltung.
+
+## §8.3 Medical Department
+
+1. Jeder Patient muss fair behandelt werden.
+2. Die Bevorzugung einzelner Fraktionen ist verboten.
+3. Waffen sind nur mit entsprechender Genehmigung zum Eigenschutz erlaubt.
+4. Bei Gefahrensituationen ist das PD hinzuzuziehen.
+5. Das MD darf nicht für illegale Aktivitäten missbraucht werden.
+6. Medizinische Einsätze müssen realistisch ausgespielt werden.

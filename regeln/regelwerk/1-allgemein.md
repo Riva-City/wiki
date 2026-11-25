@@ -1,56 +1,71 @@
-# 📔 §1 Allgemein
+# §1 | Allgemeine Regeln
 
-## §1.1 Allgemeine Regeln:
-- Regelbrüche / Cheats müssen SOFORT nach Beendigung der RP Situation via Ticket oder Warteraum gemeldet werden jedoch nicht während einer Situation
-- Kein Ausnutzen von Grauzonen
-- Täuschung bei Regelverstößen oder Bug-Ausnutzung ist nicht erlaubt.
-- Neue Spieler dürfen nicht aufgefordert werden Einladungscodes einzugeben.
-- Das Ausnutzen / Bestehen jeglicher Bugs muss **umgehend** gemeldet werden.
+## §1.1 Verhalten
 
-## §1.2 Bugs & Cheats:
+1. Behandle andere Spieler respektvoll.
+2. Rassismus, Diskriminierung, Mobbing und schwere persönliche Beleidigungen sind verboten.
+3. Das Leben deines Charakters hat oberste Priorität.
+4. Ein funktionierendes Mikrofon ist Pflicht.
+5. Echtgeldhandel mit Spielgeld, Fahrzeugen oder Gegenständen ist verboten. Offizielle Serverangebote sind ausgenommen.
+6. VIP-Gegenstände und ausdrücklich geschützte Gegenstände dürfen nicht gestohlen werden.
+7. Das absichtliche Provozieren von Regelverstößen ist verboten.
+8. Helme sind verboten.
+9. Safezonen dürfen nicht zur Flucht aus laufenden RP-Situationen ausgenutzt werden.
+10. Das Vortäuschen einer Teammitgliedschaft ist verboten.
 
-**Hacken, Cheaten und Bug-Exploits:**
-- Hacken, Cheaten und das bewusste Ausnutzen von Bugs sind strikt untersagt. (Darunter zählen dauerhaftes Funkschießen, Glitchroll, Stutter Speedboost usw.) Solltet ihr einen Bug abusen der nicht im Regelwerk steht, behalten wir uns trotzdem das Recht vor, euch angemessen zu bestrafen wenn dadurch ein Spielvorteil enstanden sein sollte.
+## §1.2 Bugs und Cheats
 
-**Meldepflicht für Bugs und Regelverstöße:**
+1. Cheaten, Hacken, Bugusing und unerlaubte Makros sind verboten.
+2. Bugs müssen schnellstmöglich dem Support gemeldet werden.
+3. Das Ausnutzen oder Weitergeben von Bugs ist verboten.
+4. Technische Probleme anderer Spieler dürfen nicht ausgenutzt werden.
+5. Manipulationen an Waffenwerten, Hitboxen und dem Schadenssystem sind verboten.
 
-- Entdeckte Bugs müssen innerhalb von 1 Stunde gemeldet werden.
-- Regelverstöße sind spätestens innerhalb von 48 Stunden zu melden.
+## §1.3 Pure Mode und Custom-Modifikationen
 
-**Grauzonen und Safezonen:**
-- Das Ausnutzen von Grauzonen oder das Flüchten in Safezonen, um Strafen oder Gegnern zu entgehen, ist verboten und wird bestraft.
+**GRP verwendet Pure Mode Stufe 1.**
 
-**Zu den Safezones zählen:**
-- Autohändler
-- Mechaniker
-- Hotel (am alten Würfelpark)
+1. Modifikationen zur Umgehung von Pure Mode sind verboten.
+2. Eigene Crosshairs sind erlaubt.
+3. Custom-Gun-Sounds sind erlaubt, sofern sie mit Pure Mode funktionieren und keinen unfairen Vorteil bringen.
+4. Kompatible Grafikmods, Shader und Farbfilter sind erlaubt, solange sie keine unfairen Vorteile verschaffen.
+5. NoProps, NoBushes, entfernte Hindernisse, manipulierte Texturen und vergleichbare Vorteile sind verboten.
+6. Manipulierte Trefferzonen, Waffenwerte, Fahrzeugeigenschaften oder Animationen sind verboten.
+7. Vom Server bereitgestellte Custom-Fahrzeuge, Kleidung, MLOs und Scripts dürfen verwendet werden.
+8. Das Umgehen von Pure Mode oder Anti-Cheat-Schutzmaßnahmen ist strengstens verboten.
 
-**Verbot der Weitergabe von Bugs:**
-- Das Weitergeben oder Veröffentlichen von Bugs ist untersagt und wird streng geahndet.
+> **Wichtig:** Nur weil eine Modifikation technisch funktioniert, ist sie nicht automatisch erlaubt.
 
-## §1.3 Regeländerungen:
+## §1.4 Serverneustart und technische Probleme
 
-**Änderungen:** Das Regelwerk kann jederzeit angepasst werden. Änderungen treten entweder ab dem nächsten Serverneustart oder unmittelbar nach der Ankündigung im Discord-Kanal „Regelwerks-Update“ in Kraft.
+1. GRP hat einen regulären Serverneustart pro Tag.
+2. Nach einem Crash musst du nach Möglichkeit innerhalb von 10 Minuten zurückkehren.
+3. Falls dies nicht möglich ist, informiere den Support.
+4. RP-Situationen dürfen nicht durch absichtliches Ausloggen beendet werden.
+5. Ein Serverneustart beendet laufende RP-Konflikte nicht automatisch.
+6. In den letzten 30 Minuten vor dem angekündigten Neustart dürfen keine neuen Geiselnahmen oder Großüberfälle gestartet werden.
+7. Gegenstände dürfen wichtige Wege oder Eingänge nicht grundlos blockieren.
 
-**Verantwortlichkeit:** Änderungen dürfen ausschließlich von der Teamleitung oder höhergestellten Teammitgliedern vorgenommen werden.
+## §1.5 Regeländerungen
 
+Das Regelwerk kann durch die Serverleitung geändert werden. Änderungen werden im Discord angekündigt und gelten ab dem dort genannten Zeitpunkt.
 
-## §1.4 Umgangsformen:
+Jeder Spieler ist selbst dafür verantwortlich, sich über Änderungen zu informieren.
 
-**Respekt:** Alle User müssen sich respektvoll verhalten. Beleidigungen, Mobbing, Rassismus, Diskriminierung, Drohungen und sexistische Inhalte sind verboten.
+## §1.6 FiveM-Name
 
-**Benachteiligung:** Niemand darf aufgrund von Meinung, Herkunft, Geschlecht, Religion oder anderen persönlichen Merkmalen benachteiligt werden.
+1. Jeder Spieler ist verpflichtet, seinen FiveM-Anzeigenamen an seinen aktuellen IC-Charakter anzupassen.
+2. Der Name muss aus der Fraktionszugehörigkeit und dem vollständigen IC-Vor- und Nachnamen bestehen.
+3. Zivilisten müssen die Bezeichnung „Zivi“ verwenden.
+4. Bei einem Fraktionswechsel oder einer Namensänderung muss der FiveM-Name entsprechend angepasst werden.
+5. Falsche Fraktionszugehörigkeiten, Fantasienamen und irreführende Bezeichnungen sind verboten.
+6. Spieler mit einem fehlenden oder nicht regelkonformen FiveM-Namen werden vom Server gekickt.
 
-**Verbreitung illegaler Inhalte:** Die Verbreitung von extremistischen, jugendgefährdenden oder illegalen Inhalten ist verboten.
+**Vorgeschriebenes Namensformat:**
 
-<!--## §1.5 Lootdrop:
+- Zivilist: `Zivi | Max Mustermann`
+- Fraktionsmitglied: `Fraktionsname | Max Mustermann`
+- Police Department: `PD | Max Mustermann`
+- Medical Department: `MD | Max Mustermann`
 
-- Beim Lootdrop wird automatisch ein Schusscall gegen alle Personen gegeben die sich im Bereich aufhalten. In dieser Phase 
-
-- Während und nach einem Lootdrop dürfen auf dem Boden liegenden Leuten keine Gegenstände abgezogen werden.
-
-- Während und nach einem Lootdrop dürfen keine Situationen enstehen um an den Lootdrop zu gelangen oder die Gegnerpartei auszunehmen.
-
-- Sollte der Gewinner des Lootdrops bedroht werden, muss er keine seiner Sachen abgeben.
-
-- Nach dem Lootdrop haben die User das Recht sich Administrativ reviven zu lassen.-->
+**Wichtig:** Gemeint ist der IC-Name deines Charakters, nicht dein privater Name im echten Leben.
