@@ -22,7 +22,7 @@
 * [🔫 Gambohalle](erklaerung/gambohalle.md)
 * [💵 Geld Arten](erklaerung/geld-arten.md)
 * [🌇 Grafikmodifikationen](erklaerung/grafikmodifikationen.md)
-* [🎤 Riva-Voice](erklaerung/grp-voice.md)
+* [🎤 GRP-Voice](erklaerung/grp-voice.md)
 * [🗺 illegale Routen](erklaerung/illegale-routen.md)
 * [🎮 Kostenloses-Geschenk](erklaerung/kostenloses-geschenk.md)
 * [🎮 Kostenlose DP](erklaerung/kostenlose-dp-punkte.md)
